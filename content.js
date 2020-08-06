@@ -10,7 +10,7 @@ const interval = setInterval(() => {
         button.classList.add("twoTimeButton")
 
         button.addEventListener("click", () =>{
-            const audios = document.querySelectorAll("audios")
+            const audios = document.querySelectorAll("audio")
             audios.forEach(audio => { audio.playbackRate = 2 })
         })
 
