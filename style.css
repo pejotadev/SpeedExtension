@@ -5,3 +5,19 @@
     background-color:transparent;
     border: none;
 }
+
+.btnSpeed{
+    width: 18px !important;
+    text-align: center;
+    font-size: 10px;
+    padding: 7px;
+    margin-left: 5px;
+    color: gray;
+    border-radius: 50%;
+    border: 1px solid #c3c3c3;
+}
+
+.btnSpeed:hover{
+    color: white;
+    background-color: #039be5;
+}
