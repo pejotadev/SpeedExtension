@@ -8,13 +8,14 @@
 
 .btnSpeed{
     width: 18px !important;
-    text-align: center;
     font-size: 10px;
     padding: 7px;
     margin-left: 5px;
-    color: gray;
     border-radius: 50%;
     border: 1px solid #c3c3c3;
+    color: gray;
+    text-align: center;
+    cursor: pointer;
 }
 
 .btnSpeed:hover{
